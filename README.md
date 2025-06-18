@@ -41,9 +41,7 @@ Untuk mencoba aplikasi, gunakan kredensial berikut:
 ## ✨ Fitur Utama
 
 - 🧮 Implementasi metode **AHP (Analytic Hierarchy Process)**
-- 📥 Fitur **import data**:
-  - [📁 Import Kriteria](https://github.com/user-attachments/files/19679422/Import.Kriteria.xlsx)
-  - [📁 Import Kategori](https://github.com/user-attachments/files/19679419/Import.Kategori.xlsx)
+- 📥 Fitur **import data**
 - 📊 Visualisasi hasil perbandingan
 - 📄 Ekspor laporan ke **PDF** atau **Excel**
 - 👤 Sistem login dan manajemen pengguna
