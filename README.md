@@ -112,12 +112,6 @@ Ikuti langkah-langkah di bawah untuk menjalankan proyek ini di lokal Anda:
 
 ---
 
-## 📷 Screenshot (Optional)
-
-> Tambahkan gambar tampilan aplikasi di sini untuk mempercantik dokumentasi
-
----
-
 ## 📄 Lisensi
 
 Proyek ini menggunakan lisensi [MIT](https://choosealicense.com/licenses/mit/).
